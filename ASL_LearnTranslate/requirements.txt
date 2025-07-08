@@ -1,18 +1,7 @@
-# Python dependencies
+# ---- Python backend requirements ----
+flask
+flask-cors
+gunicorn          
 numpy
 onnxruntime
-mediapipe
-flask  # If a backend server is required
-flask-cors  # For handling CORS in Flask
-npm install react-webcam
-# Node.js and JavaScript dependencies (install via npm)
-# These are listed for reference; install them using package.json in respective folders:
-# - react, react-dom, react-router-dom
-# - @mediapipe/camera_utils, @mediapipe/drawing_utils, @mediapipe/hands
-# - onnxruntime-web, axios, react-webcam
-# - typescript, vite
-# - @mui/material, @emotion/react, @emotion/styled  # Added Material-UI and Emotion packages
-npm install @mui/material @emotion/react @emotion/styled
-npm install @mediapipe/hands @mediapipe/camera_utils @mediapipe/drawing_utils
-npm install @mui/material @mui/icons-material
-npm install eslint
+mediapipe         
