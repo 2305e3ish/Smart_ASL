@@ -1,7 +1,6 @@
 # ---- Python backend requirements ----
-flask
-flask-cors
-gunicorn          
 numpy
 onnxruntime
-mediapipe         
+flask
+flask-cors
+gunicorn
