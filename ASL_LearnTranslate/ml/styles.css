@@ -1,0 +1,18 @@
+.hidden {
+    display: none;
+}
+
+.canvas-style {
+    border: 1px solid black;
+}
+
+.button-style {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.text-box-style {
+    font-size: 18px;
+    color: #333;
+}
