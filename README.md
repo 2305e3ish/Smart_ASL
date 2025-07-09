@@ -38,3 +38,4 @@ Smart ASL is a web-based application that enables real-time recognition of Ameri
 - ![WhatsApp Image 2025-04-14 at 12 57 29_9b83dd55](https://github.com/user-attachments/assets/c6663908-aae0-4a37-a0d9-db8e82201587)
 - ![WhatsApp Image 2025-04-09 at 00 11 41_38c950da](https://github.com/user-attachments/assets/817019b5-062e-4759-8c3d-667fdd35d805)
 - ![WhatsApp Image 2025-04-09 at 00 12 05_6d072679](https://github.com/user-attachments/assets/a548fbd6-f954-47c7-89a6-35a84015b7de)
+.
