@@ -40,7 +40,7 @@ Smart ASL is a web-based application that enables real-time recognition of Ameri
 - ![WhatsApp Image 2025-04-09 at 00 12 05_6d072679](https://github.com/user-attachments/assets/a548fbd6-f954-47c7-89a6-35a84015b7de)
 
 ### Our Contributors:
-- @Mer315 : Frontend , content planning
-- @ish64 : ML , backend
-- @siddi-Harshini : model training , presentation
-- @HansiniGundu : model training , documentation
+- [![GitHub User](https://github.com/Mer315.png?size=50)](https://github.com/Mer315) : Frontend , content planning
+- [![GitHub User](https://github.com/2305e3ish?size=50)](https://github.com/2305e3ish) : ML , backend
+- [![GitHub User](https://github.com/siddi-Harshini?size=50)](https://github.com/siddi-Harshini) : model training , presentation
+- [![GitHub User](https://github.com/HansiniGundu?size=50)](https://github.com/HansiniGundu) : model training , documentation
